@@ -1,2 +1,2 @@
 # Desafio-de-Projeto-da-DIO
-Repositorio de projeto
+Repositório de projeto
